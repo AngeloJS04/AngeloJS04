@@ -7,7 +7,7 @@ Web developer
 
 * 🌍  I'm based in Rep Dominicana
 * ✉️  You can contact me at [angelo.david499@gmail.com](mailto:angelo.david499@gmail.com)
-* 🧠  I'm learning React, NextJS, NodeJS
+* 🧠  I'm learning NodeJS
 
 ### Skills
 
